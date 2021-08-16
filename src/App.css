@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  background: #cccccc;
+  padding: 15px;
+}
+
+footer {
+  background: #eeeeee;
+  padding: 15px;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+section {
+  max-width: 768px;
+  margin: 40px auto;
+  border: 1px solid #eeeeee;
+  border-radius: 4px;
+  padding: 15px;
+}
